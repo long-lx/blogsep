@@ -1,0 +1,22 @@
+/*
+Monda-Regular: Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Monda'
+Styled by: https://plus.google.com/107807505287232434305/about
+License: SIL Open Font License, 1.1
+*/
+
+
+@font-face {
+	font-family: 'Monda';
+	font-style: normal;
+	font-weight: 400;
+	src: url('monda-regular-webfont.eot');
+}
+
+@font-face {
+	font-family: 'Monda';
+	src: local('Monda Regular'), local('Monda-Regular'), url('monda-regular-webfont.eot') format('embedded-opentype'), url('monda-regular-webfont.woff') format('woff');
+	local('Monda Regular'), local('Monda-Regular'), url('monda-regular-webfont.svg#Monda') format('svg');
+	local('Monda Regular'), local('Monda-Regular'), url('monda-regular-webfont.ttf') format('truetype');
+	url('monda-regular.ttf') format('truetype');
+}
+
